@@ -1,15 +1,20 @@
 {
-  "name": "jsvalid",
+  "name": "jsform",
   "version": "1.0.0",
-  "description": "",
+  "description": "<p align=\"center\">\r   <img width=\"1024\" height=\"385\"alt=\"image todo list\" src=\"https://i.postimg.cc/zG5KB0dK/pngwing-com-1.png\" style=\"width:50%\">\r </p>",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Adeline",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.3.2"
+    "bootstrap": "^5.3.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "jsform"
   }
 }
