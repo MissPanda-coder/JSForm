@@ -1,4 +1,4 @@
-// Je dois créer mes variables
+
 const form = document.querySelector("#signup")
 const togglePassword = document.querySelector('#togglePassword');
 const usernameEl = document.forms.formValidate.username
